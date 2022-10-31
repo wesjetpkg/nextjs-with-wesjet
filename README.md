@@ -1,4 +1,4 @@
-## nextjs-with-wesjet
+## Next.js With Wesjet
 
 Using Nextjs With Wesjet Template
 
